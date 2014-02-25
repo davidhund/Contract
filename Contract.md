@@ -2,17 +2,16 @@
 
 ## Terms and definitions
 
-* **‘This document’** refers to this contract and the terms and agreements within
-  it.
-* **‘The Work’** refers to the project for which this document was actioned.
-  This could be, but is far from limited to: a workshop, consultancy time,
-  development work, a conference talk.
-* **‘You’** refers to the client or company on behalf of whom The Work is
-  commissioned.
-* **‘I’** refers to me, Peter van Grieken, working for You on behalf of Frozen Rockets BV
-  Ltd.
+* **‘Dit Document’** refereert aan dit contract en de voorwaarden die hierin
+	vermeld staan.
+* **‘Het Werk’** verwijst naar het project waarvoor dit document geschreven is.
+	Dit kan zijn, maar is niet beperkt tot: consultancy uren, ontwikkelwerkzaamheden of
+	een workshop.
+* **U** refereert aan de klant of het bedrijf waarvoor Het Werk wordt uitgevoerd.
+* **‘Ik’** verwijst naar mij, Peter van Grieken, uitvoerende van het werk namens Frozen Rockets BV.
 
-## About this document
+## Over dit document
+
 
 I’m really excited that we’re at the stage where we’re signing contracts; it
 means that we’re a great fit both professionally and personally (I like working
@@ -140,7 +139,8 @@ the agreed scope of The Work and its surrounding terms. Work shall commence as
 soon as the deposit is received.
 
 ### Payment terms
-
+If The Work spans more than 2 months, invoices will be sent monthly. 
+Projects shorter than 2 months.
 Once a project is deemed complete, an invoice shall be raised for the remaining
 50% of the project cost, along with any other incidental costs (see _Expenses_).
 The remaining balance shall be paid within 14 days of it being invoiced.
