@@ -2,71 +2,81 @@
 
 ## Terms and definitions
 
-* **‘Dit Document’** refereert aan dit contract en de voorwaarden die hierin
+* **‘Dit Document’** verwijst naar dit contract en de voorwaarden die hierin
 	vermeld staan.
 * **‘Het Werk’** verwijst naar het project waarvoor dit document geschreven is.
-	Dit kan zijn, maar is niet beperkt tot: consultancy uren, ontwikkelwerkzaamheden of
-	een workshop.
+	Dit kan zijn, maar is niet uitsluitend: consultancy uren, ontwikkelwerkzaamheden, een presentatie of een workshop.
 * **U** refereert aan de klant of het bedrijf waarvoor Het Werk wordt uitgevoerd.
 * **‘Ik’** verwijst naar mij, Peter van Grieken, uitvoerende van het werk namens Frozen Rockets BV.
 
 ## Over dit document
 
+Allereerst ben ik blij dat we op het punt zijn dat er contracten getekend worden;
+Het betekent dat we zowel professioneel als persoonlijk goed bij elkaar passen (ik
+werk graag met leuke mensen). Ik wil deze relatie graag zo houden en ik hoop dat
+dit document ons daarbij kan helpen. Ik heb geprobeerd zowel duidelijk als
+eerlijk te zijn en ik hoop dat alles in dit document redelijk overkoomt.
 
-I’m really excited that we’re at the stage where we’re signing contracts; it
-means that we’re a great fit both professionally and personally (I like working
-with nice people). I am very keen to maintain this relationship, and I hope this
-document can help us with that. I have tried to remain firm but fair, and I hope
-everything within this document seems reasonable.
+Ik heb een nuchtere en informele houding in mijn werk en ik ben geen grote fan van
+kleine lettertjes of te veel juridich taalgebruik, dus ik poog dit document zo bondig
+en informeel mogelijk te houden. Ik hoop dat u zich kunt vinden in en comfortabel voelt
+bij deze aanpak.
 
-I have a very laid back and informal approach to my work, and I am not a fan of
-small print or legalese, so I aim to keep this document as concise and casual as
-possible. I hope You agree—and are comfortable—with this tone and approach.
+Dit document is opgesteld om de belangen van alle betrokken partijen te beschermen, om
+ieders verantwoordelijkheden te beschrijven en om onduidelijkheden of teleurstellingen
+tijdens en na afloop van onze samenwerking te voorkomen.
 
-This document exists to protect the interests of all involved parties, to
-outline our responsibilities to one another, and to avoid any confusion or
-disappointment during and/or after our time working together.
+Als iets onduidelijk is, schroom niet om het mij te vragen. Het is daarnaast belangrijk
+dat u weet dat verzoeken voor wijzigingen en toevoegingen aan dit document _voor_ het
+tekenen gedaan worden. Elk project wat ik uitvoer heeft zijn eigen vereisten, dus ik kan
+en ben bereid om wijzigingen te doen aan dit document om aan de eisen van elk project te
+voldoen.
 
-If anything is unclear please do not hesitate to ask me any questions. It is
-also important to know that amendments and additions can be requested _prior_ to
-signing the document. Each project I undertake will have its own individual
-nuances and requirements, so I am able and willing to modify this document to
-suit the needs of each project.
+Samenvattend, u contracteert Frozen Rockets BV om het werk uit te voeren wat overeengekomen
+is in dit document en eventuele andere documenten in overeenstemming met briefing, 
+specificaties, kosten en deadlines.
 
-In summary, The Client is contracting Frozen Rockets BV to complete
-work outlined within this document and/or other documents in accordance with
-agreed briefs, specifications, costs and deadlines.
+En vooral, laten we samen mooi werk maken!
 
-Now, let’s do great work together!
 
 ---
 
-## Involved parties
+## Betrokken partijen
 
 **Peter van Grieken, ‘Frozen Rockets BV’, ‘I’:**
 
-[Address]
+Binkhorstlaan 36
+2511 AT Den Haag
 
 **[Name], ‘The Client’, ‘You’:**
 
 [Address]
 
-## Scope of The Work
+## Scope
 
-The scope of The Work I will be carrying out for You will likely have been
-outlined, understood and agreed in previous correspondence. Emails and other
-documents detailing the scope of The Work are supplementary to this document and
-shall be referenced and referred to when agreeing and defining the project’s
-scope.
+De scope van Het Werk dat ik voor U zal uitvoeren, is waarschijnlijk al beschreven en 
+overeengekomen in eerdere correspondentie. E-mails en andere documenten waarin de 
+scope gedetailleerder wordt beschreven zijn bij dit document gevoegd waarnaar
+verwezen zal worden wanneer over de scope van het project gesproken wordt.
 
-### Change in scope
 
-There are times when the scope of The Work may change. Ideally we will handle
-these as-and-when, and in a pragmatic manner, but any major deviations in scope
-may require renegotiation of rates and the termination and renewal of the
-contract.
+### Veranderingen in scope
+
+Er kunnen momenten zijn wanneer de scope van Het Werk verandert. In het ideale geval
+kunnen we deze op het moment zelf afhandelen en er op een pragmatische manier mee
+omgaan, maar grote wijzigingen kunnen er toe leiden dat de overeengekomen tarieven en
+deadline moeten herzien en het contract moeten vernieuwen.
+
+
 
 ## Deadlines
+
+De overeengekomen deadline voor Het Werk zal overeengekomen worden in aparte 
+correspondentie en ik zal alles ales binnen mijn mogelijkheden doen om mij
+aan deze deadline te houden. In het ongelukkige geval dat een van de partijen
+zich niet aan de deadline kan houden, is het belangrijk dat we compleet
+transparant en eerlijk zijn over vertragingen. Vertragingen kunnen en zullen
+optreden, het is aan ons om deze zo goed mogelijk af te handelen.
 
 Deadlines for The Work shall be agreed in separate correspondence, and I shall
 do everything within my power to stick to them. In the unfortunate event that
