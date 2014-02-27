@@ -46,7 +46,9 @@ En vooral, laten we samen mooi werk maken!
 **Peter van Grieken, ‘Frozen Rockets BV’, ‘I’:**
 
 Binkhorstlaan 36
+
 2511 AT Den Haag
+
 
 **[Name], ‘The Client’, ‘You’:**
 
@@ -78,11 +80,6 @@ zich niet aan de deadline kan houden, is het belangrijk dat we compleet
 transparant en eerlijk zijn over vertragingen. Vertragingen kunnen en zullen
 optreden, het is aan ons om deze zo goed mogelijk af te handelen.
 
-Deadlines for The Work shall be agreed in separate correspondence, and I shall
-do everything within my power to stick to them. In the unfortunate event that
-either party cannot meet a deadline, it is important that we remain completely
-transparent and honest about any delays or hold ups. Delays can, will, and do
-happen, it is how we handle them that matters.
 
 ## Copyright and ownership
 
