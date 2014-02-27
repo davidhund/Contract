@@ -18,8 +18,8 @@ dit document ons daarbij kan helpen. Ik heb geprobeerd zowel duidelijk als
 eerlijk te zijn en ik hoop dat alles in dit document ook vuur u redelijk is.
 
 Ik heb een nuchtere en informele houding in mijn werk en ik ben geen grote fan van
-kleine lettertjes of te veel juridich taalgebruik, dus ik poog dit document zo bondig
-en informeel mogelijk te houden. Ik hoop dat u zich kunt vinden in en comfortabel voelt
+kleine lettertjes of te veel juridich taalgebruik, dus ik probeer dit document zo bondig
+en informeel mogelijk te houden. Ik hoop dat u zich hierin kunt vinden en comfortabel voelt
 bij deze aanpak.
 
 Dit document is opgesteld om de belangen van alle betrokken partijen te beschermen, om
