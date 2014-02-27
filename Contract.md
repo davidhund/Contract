@@ -12,10 +12,10 @@
 ## Over dit document
 
 Allereerst ben ik blij dat we op het punt zijn dat er contracten getekend worden;
-Het betekent dat we zowel professioneel als persoonlijk goed bij elkaar passen (ik
+het betekent dat we zowel professioneel als persoonlijk goed bij elkaar passen (ik
 werk graag met leuke mensen). Ik wil deze relatie graag zo houden en ik hoop dat
 dit document ons daarbij kan helpen. Ik heb geprobeerd zowel duidelijk als
-eerlijk te zijn en ik hoop dat alles in dit document redelijk overkoomt.
+eerlijk te zijn en ik hoop dat alles in dit document ook vuur u redelijk is.
 
 Ik heb een nuchtere en informele houding in mijn werk en ik ben geen grote fan van
 kleine lettertjes of te veel juridich taalgebruik, dus ik poog dit document zo bondig
