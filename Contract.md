@@ -1,6 +1,6 @@
 # Contract
 
-## Terms and definitions
+## Algemene voorwaarden
 
 * **‘Dit Document’** verwijst naar dit contract en de voorwaarden die hierin
 	vermeld staan.
@@ -32,8 +32,8 @@ tekenen gedaan worden. Elk project wat ik uitvoer heeft zijn eigen vereisten, du
 en ben bereid om wijzigingen te doen aan dit document om aan de eisen van elk project te
 voldoen.
 
-Samenvattend, u contracteert Frozen Rockets BV om het werk uit te voeren wat overeengekomen
-is in dit document en eventuele andere documenten in overeenstemming met briefing, 
+Samenvattend, u huurt Frozen Rockets BV in om het werk uit te voeren wat overeengekomen
+is in dit document en eventuele bijgevoegde documenten in overeenstemming met briefing, 
 specificaties, kosten en deadlines.
 
 En vooral, laten we samen mooi werk maken!
@@ -43,7 +43,7 @@ En vooral, laten we samen mooi werk maken!
 
 ## Betrokken partijen
 
-**Peter van Grieken, ‘Frozen Rockets BV’, ‘I’:**
+**Peter van Grieken, ‘Frozen Rockets BV’, ‘Ik’:**
 
 Binkhorstlaan 36
 
@@ -56,7 +56,7 @@ Binkhorstlaan 36
 
 ## Scope
 
-De scope van Het Werk dat ik voor U zal uitvoeren, is waarschijnlijk al beschreven en 
+De scope van Het Werk dat ik voor u zal uitvoeren, is waarschijnlijk al beschreven en 
 overeengekomen in eerdere correspondentie. E-mails en andere documenten waarin de 
 scope gedetailleerder wordt beschreven zijn bij dit document gevoegd waarnaar
 verwezen zal worden wanneer over de scope van het project gesproken wordt.
@@ -81,60 +81,65 @@ transparant en eerlijk zijn over vertragingen. Vertragingen kunnen en zullen
 optreden, het is aan ons om deze zo goed mogelijk af te handelen.
 
 
-## Copyright and ownership
+## Auteursrecht en eigendom
 
-The nature of open-source, and a lot of The Work I carry out, policing copyright
-is quite difficult. Any third-party libraries will remain under their respective
-licenses, and it is Your responsibility to ensure that any supplied materials
-(stock photography, font files, code, etc.) are correctly licensed.
+Door de aard van open source en voor veel van het werk wat ik uitvoer, is het
+moeilijk om het auteursrecht te beschermen. Voor gebruikte libraries van derde
+partijen geldt dat deze hun originele licentie behouden.
 
-Once the entire outstanding balance of the project has been paid, all relevant
-copyright of The Work that can be assigned to You shall be.
+Het is uw verantwoordelijkheid om ervoor te zorgen dat aangeleverde materialen
+(stockfotografie, fonts, code, etc.) gelicenseerd zijn. 
 
-There will likely be a few grey areas if The Work is a workshop or conference
-talk that You have paid for but not explicitly commissioned. For example: if I
-were to give a public talk at Your conference, I would like to retain copyright
-of the slides etc. so as to share them with the wider community; if I am
-commissioned to give a workshop specifically for/to Your business, You would
-retain the copyright. I like to think we can agree on the intricacies of these
-on a case-by-case basis.
+Wanneer het verschuldigde bedrag volledig betaald is, zullen alle relevante 
+auteursrechten van het werk die aan u overgedragen kunnen worden aan u
+overgedragen.
 
-## Disclosure
+Er zullen waarschijnlijk een aantal grijze gebieden zijn als het werk een workshop
+of presentatie is waarvoor u betaalt, maar waar u niet expliciet opdracht voor 
+verleent. Een voorbeeld: Als ik een presentatie of workshop geef in uw bedrijf,
+dan behoud ik het auteursrecht over de slides en het recht om deze te delen met
+derden (de _community_), tenzij anders overeengekomen in schriftelijke vorm.
 
-I am more than happy to sign a Non-Disclosure Agreement (NDA) in order to work
-on Your project.
 
-I often like to write and tweet about the projects I am currently working on; if
-there is no NDA in place I shall assume that You authorise me to do this. Please
-explicitly state if this is not acceptable before signing this document.
+## Openbaarmaking
 
-I shall explicitly seek Your consent before open sourcing—or writing in any
-detail about—any of the code or techniques employed in The Work.
+Het is geen probleem voor mij om een Non-Disclosure Agreement (NDA) te tekenen voor
+het werk dat ik voor u uitvoer.
 
-## Alterations, amends and maintenance
+Ik schrijf (op mijn website en/of twitter) vaak over projecten waar ik aan werk; als
+er geen NDA is ga ik er van uit dat u mij toestaat dit te doen. Laat u het mij _voor_
+het tekenen van dit document expliciet weten als u dit niet toestaat.
 
-Any amends which do not drastically alter the scope of The Work, or that are
-intended to bring The Work more in line with project requirements, usually fall
-under the agreed scope of The Work and, as such, do not require renegotiation of
-costs or this document.
+Ik zal altijd expliciet uw toestemming vragen voordat ik schrijf over gebruikte code
+of gebruikte technieken in het werk of deze open-source.
 
-For any changes that do change the scope of The Work, please see the _Change
-in scope_ section of this document.
 
-Any bugs, which, unfortunately, cannot be guaranteed against, that are directly
-related to The Work, and are discovered within two weeks of the end of The Work,
-shall be fixed as a matter of course, and require no renegotiation of terms. I
-also apologise in advance if we should ever find ourselves in this situation.
+## Wijzigingen en onderhoud
 
-Maintenance of The Work is not covered by either the project’s costs or this
-document unless explicitly agreed. Maintenance work can be specced out and
-priced separately to the scope of The Work.
+Wijzigingen die de scope van het werk niet drastisch beinvloeden, of die benodigd
+zijn om het werk te laten voldoen aan de requirements van het project, vallen
+gewoonlijk onder de overeengekomen scope van het werk en vereisen daarom geen 
+herziening van de kosten of dit document.
 
-## Payment
+Voor alle wijzigingen die de scope van het project wel beinvloeden, zie sectie
+_Veranderingen in scope_ in dit document
 
-Being a small and, currently, a fledgling business, cash flow is very important
-to Frozen Rockets BV. As such, it is asked that You meet the payment terms outlined
-below.
+Het voorkomen van programmeerfouten kan, helaas, niet gegarandeerd worden. Mochten
+deze direct gerelateerd zijn aan het werk en binnen twee weken na afloop van het 
+project ontdekt worden, dan zullen deze vanzelfsprekend opgelost worden zonder
+herziening van de voorwaarden. Ik biedt bij deze mijn excuses aan mocht dit het
+geval zijn.
+
+Onderhoud aan het werk valt niet onder de voorwaarden van dit document of de
+afgesproken kosten tenzij expliciet anders overeengekomen. Onderhoud kan apart
+begroot en beschreven worden.
+
+
+## Betaling
+
+Als klein bedrijf is een gezonde liquiditeit erg belangrijk voor Frozen Rockets BV.
+U wordt daarom verzocht zich aan de hieronder genoemde betalingsvoorwaarden te houden.
+
 
 ### Deposit
 
