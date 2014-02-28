@@ -25,5 +25,5 @@ Suggesties voor wijzigingen en toevoegingen zijn erg welkom, doe ze gerust door
 
 ## Credits
 
-Het origineel van dit contract is opgesteld door [Harry Roberts](https://github.com/csswizardry/Contract/), waarvoor dank. Deze _fork_ is slechts een vertaling met een aantal kleine
+Het origineel van dit contract is opgesteld door [Harry Roberts](https://github.com/csswizardry/Contract/), waarvoor dank. Deze _fork_ is een vertaling met een aantal kleine
 aanpassingen voor mijn situatie.
