@@ -1,24 +1,29 @@
 # Frozen Rockets BV contract
 
-This is the standard contract to which I—acting as Frozen Rockets BV —operate.
-This contract can be amended and updated to be tailored to individual clients
-and projects, this is merely my boilerplate.
+Dit is het standaard contract dat ik, namens Frozen Rockets BV, gebruik voor 
+opdrachten. Toevoegingen en wijzigingen aan dit contract kunnen voor specifieke
+opdrachten worden gedaan, dit is mijn _boilerplate_.
 
-## Using this contract
 
-In keeping with my sharing and open-source nature, I am making this contract
-freely available for you to modify and use for yourself on your client projects.
-I do, however, accept absolutely **zero liability for anything at all**. Use
-entirely at your own risk.
+## Gebruik van dit contract
 
-## Contributions, suggestions and improvements
+Ik deel dit contract als open-source project zodat iedereen het kan gebruiken
+en/of verbeteren. Ik neem echter **geen enkele aansprakelijkheid op me, gebruik van
+dit contract is eigen verantwoordelijkheid**.
 
-I, as you’ve probably already guessed, am not a lawyer. This is a simple,
-layman’s contract that I have drawn up purely to manage the expectations of both
-myself and my clients. If you have an suggestions, improvements or criticisms,
-please [open an issue](https://github.com/petervangrieken/Contract/issues) or
-[submit a pull request](https://github.com/petervangrieken/Contract/pulls).
 
-## Thank you
+## Bijdragen, suggesties en verbeteringen
 
-With special thanks to [Harry Roberts](https://twitter.com/csswizardry) for providing the boilerplate for the contract.
+Zoals je waarschijnlijk al begrepen hebt, ik ben geen jurist. Dit is een eenvoudig
+contract wat ik gebruik om de verwachtingen en verantwoordelijkheden van mijzelf
+en de klant duidelijk te maken.
+
+Suggesties voor wijzigingen en toevoegingen zijn erg welkom, doe ze gerust door
+[een issue te openen](https://github.com/petervangrieken/Contract/issues) or
+[een pull request te submitten](https://github.com/petervangrieken/Contract/pulls).
+
+
+## Credits
+
+Het origineel van dit contract is opgesteld door [Harry Roberts](https://github.com/csswizardry/Contract/), waarvoor dank. Deze _fork_ is slechts een vertaling met een aantal kleine
+aanpassingen voor mijn situatie.
