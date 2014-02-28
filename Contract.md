@@ -153,41 +153,40 @@ voorwaarden. Met het werk zal begonnen worden zodra het voorschot betaald is.
 
 
 ### Betalingsvoorwaarden
-Als het werk meer dan 2 maanden beslaat, zullen maandelijks deelfacturen verstuurd 
-worden. Wanneer het werk minder dan 2 maanden beslaat, wordt na afronding van het
-project gefactureerd. Voor alle facturen geldt gestuurd voor de resterende 75% van de overeengekomen kosten.
+
+Als Het Werk meer dan 2 maanden beslaat, zullen maandelijks deelfacturen verstuurd 
+worden. Wanneer Het Werk minder dan 2 maanden beslaat, wordt na afronding van het
+project voor de resterende 75% van de overeengekomen kosten gefactureerd.
+Het te factureren bedrag bestaat uit het overeengekomen projectbudget en andere
+gemaakte kosten (zie _Kosten_). 
+
+Frozen Rockets BV hanteert een betalingstermijn van 30 dagen, ontvangen facturen 
+zullen binnen deze termijn betaald worden.
 
 
-If The Work spans more than 2 months, invoices will be sent monthly. 
-Projects shorter than 2 months.
-Once a project is deemed complete, an invoice shall be raised for the remaining
-50% of the project cost, along with any other incidental costs (see _Expenses_).
-The remaining balance shall be paid within 14 days of it being invoiced.
+### Betalingsverzuim
 
-### Late payment
+Wanneer niet aan de betalingsvoorwaarden voldaan wordt (voornamelijk, maar niet 
+uitsluitend de betalingstermijn), volgt een wettelijke boete van 7,75 procent op
+het factuurbedrag. Deze boete komt bovenop de nog openstaande facturen.
 
-Failure to meet agreed payment terms (primarily, but not limited to, late
-payment) will incur penalty in the form of 10% of the total project cost for
-each calendar week of late payment. This penalty fee shall be paid on top of
-any outstanding invoices.
 
-### Expenses
+### Kosten
 
-Any expenses (e.g. travel, accommodation, font licenses, etc.) shall be charged
-on top of any charges relating directly to The Work.
+Alle kosten die direct betrekking hebben op Het Werk (bijvoorbeeld reiskosten, 
+accomodatie, licenties, etc.) zullen gefactureerd worden naast de overeengekomen
+kosten voor Het Werk.
 
-## tl;dr
 
-Let’s just be respectful and mindful of each other at all times, before, during
-and after The Work.
 
-## Signatures
+## Handtekening
 
-The undersigned confirm that they have read, understood, and shall adhere to the
-terms laid out in this document:
+Ondergetekenden bevestigen dat ze de voorwaarden in dit document hebben gelezen,
+begrijpen en deze zullen volgen:
 
 * **Peter van Grieken:**
-* **Date:**
+* **Datum:**
 
-* **You:**
-* **Date:**
+
+* **U:**
+* **Datum:**
