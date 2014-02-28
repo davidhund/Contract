@@ -141,16 +141,23 @@ Als klein bedrijf is een gezonde liquiditeit erg belangrijk voor Frozen Rockets 
 U wordt daarom verzocht zich aan de hieronder genoemde betalingsvoorwaarden te houden.
 
 
-### Deposit
+### Voorschot
 
-An upfront deposit of 50% is required before commencing with any agreed work.
-This deposit is non-refundable and will only be paid once a fixed scope has been
-set, and we are confident that we wish to work together to these agreed terms.
-No deposit shall be taken until You are completely happy with, and clear about,
-the agreed scope of The Work and its surrounding terms. Work shall commence as
-soon as the deposit is received.
+Voor projecten die minder dan 2 maanden beslaan is een voorschot van 25% een 
+vereiste voor aanvang van het werk voor. Dit voorschot kan niet teruggevorderd
+worden en zal alleen betaald worden zodra een vaste scope vastgesteld is en we 
+beide vertrouwen hebben in een goede samenwerking onder de gestelde voorwaarden.
+Het voorschot zal niet gevraagd worden totdat u volledig tevreden bent en 
+duidelijkheid hebt over de overeengekomen scope van het werk en de bijbehorende
+voorwaarden. Met het werk zal begonnen worden zodra het voorschot betaald is.
 
-### Payment terms
+
+### Betalingsvoorwaarden
+Als het werk meer dan 2 maanden beslaat, zullen maandelijks deelfacturen verstuurd 
+worden. Wanneer het werk minder dan 2 maanden beslaat, wordt na afronding van het
+project gefactureerd. Voor alle facturen geldt gestuurd voor de resterende 75% van de overeengekomen kosten.
+
+
 If The Work spans more than 2 months, invoices will be sent monthly. 
 Projects shorter than 2 months.
 Once a project is deemed complete, an invoice shall be raised for the remaining
