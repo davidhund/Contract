@@ -9,7 +9,7 @@ opdrachten worden gedaan, dit is mijn _boilerplate_.
 
 Ik deel dit contract als open-source project zodat iedereen het kan gebruiken
 en/of verbeteren. Ik neem echter **geen enkele aansprakelijkheid op me, gebruik van
-dit contract is eigen verantwoordelijkheid**.
+dit contract is je eigen verantwoordelijkheid**.
 
 
 ## Bijdragen, suggesties en verbeteringen
