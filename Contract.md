@@ -15,10 +15,10 @@ Allereerst ben ik blij dat we op het punt zijn dat er contracten getekend worden
 het betekent dat we zowel professioneel als persoonlijk goed bij elkaar passen (ik
 werk graag met leuke mensen). Ik wil deze relatie graag zo houden en ik hoop dat
 dit document ons daarbij kan helpen. Ik heb geprobeerd zowel duidelijk als
-eerlijk te zijn en ik hoop dat alles in dit document ook vuur u redelijk is.
+eerlijk te zijn en ik hoop dat alles in dit document ook voor u redelijk is.
 
 Ik heb een nuchtere en informele houding in mijn werk en ik ben geen grote fan van
-kleine lettertjes of te veel juridich taalgebruik, dus ik probeer dit document zo bondig
+kleine lettertjes of te veel juridisch taalgebruik, dus ik probeer dit document zo bondig
 en informeel mogelijk te houden. Ik hoop dat u zich hierin kunt vinden en comfortabel voelt
 bij deze aanpak.
 
