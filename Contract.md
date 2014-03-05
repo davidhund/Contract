@@ -4,10 +4,10 @@
 
 * **‘Dit Document’** verwijst naar dit contract en de voorwaarden die hierin
 	vermeld staan.
-* **‘Het Werk’** verwijst naar het project waarvoor dit document geschreven is.
+* **‘De Werkzaamheden’** verwijst naar het project waarvoor dit document geschreven is.
 	Dit kan zijn, maar is niet uitsluitend: consultancy uren, ontwikkelwerkzaamheden, een presentatie of een workshop.
-* **U** refereert aan de klant of het bedrijf waarvoor Het Werk wordt uitgevoerd.
-* **‘Ik’** verwijst naar mij, Peter van Grieken, uitvoerende van het werk namens Frozen Rockets BV.
+* **U** refereert aan de klant of het bedrijf waarvoor De Werkzaamheden worden uitgevoerd.
+* **‘Ik’** verwijst naar mij, Peter van Grieken, uitvoerende van De Werkzaamheden namens Frozen Rockets BV.
 
 ## Over dit document
 
@@ -32,8 +32,8 @@ tekenen gedaan worden. Elk project wat ik uitvoer heeft zijn eigen vereisten, du
 en ben bereid om wijzigingen te doen aan dit document om aan de eisen van elk project te
 voldoen.
 
-Samenvattend, u huurt Frozen Rockets BV in om het werk uit te voeren wat overeengekomen
-is in dit document en eventuele bijgevoegde documenten in overeenstemming met briefing, 
+Samenvattend, u huurt Frozen Rockets BV in om De Werkzaamheden uit te voeren die overeengekomen
+zijn in dit document en eventuele bijgevoegde documenten in overeenstemming met briefing, 
 specificaties, kosten en deadlines.
 
 En vooral, laten we samen mooi werk maken!
@@ -56,15 +56,14 @@ Binkhorstlaan 36
 
 ## Scope
 
-De scope van Het Werk dat ik voor u zal uitvoeren, is waarschijnlijk al beschreven en 
-overeengekomen in eerdere correspondentie. E-mails en andere documenten waarin de 
+De scope van De Werkzaamheden die ik voor u zal uitvoeren, zijn waarschijnlijk al beschreven en overeengekomen in eerdere correspondentie. E-mails en andere documenten waarin de 
 scope gedetailleerder wordt beschreven zijn bij dit document gevoegd waarnaar
 verwezen zal worden wanneer over de scope van het project gesproken wordt.
 
 
 ### Veranderingen in scope
 
-Er kunnen momenten zijn wanneer de scope van Het Werk verandert. In het ideale geval
+Er kunnen momenten zijn wanneer de scope van De Werkzaamheden verandert. In het ideale geval
 kunnen we deze op het moment zelf afhandelen en er op een pragmatische manier mee
 omgaan, maar grote wijzigingen kunnen er toe leiden dat de overeengekomen tarieven en
 deadline moeten herzien en het contract moeten vernieuwen.
@@ -73,7 +72,7 @@ deadline moeten herzien en het contract moeten vernieuwen.
 
 ## Deadlines
 
-De overeengekomen deadline voor Het Werk zal overeengekomen worden in aparte 
+De overeengekomen deadline voor De Werkzaamheden zal overeengekomen worden in aparte 
 correspondentie en ik zal alles alles binnen mijn mogelijkheden doen om mij
 aan deze deadline te houden. In het ongelukkige geval dat een van de partijen
 zich niet aan de deadline kan houden, is het belangrijk dat we compleet
@@ -83,7 +82,7 @@ optreden, het is aan ons om deze zo goed mogelijk af te handelen.
 
 ## Auteursrecht en eigendom
 
-Door de aard van open source en voor veel van het werk wat ik uitvoer, is het
+Door de aard van open source en voor veel van De Werkzaamheden die ik uitvoer, is het
 moeilijk om het auteursrecht te beschermen. Voor gebruikte libraries van derde
 partijen geldt dat deze hun originele licentie behouden.
 
@@ -91,11 +90,11 @@ Het is uw verantwoordelijkheid om ervoor te zorgen dat aangeleverde materialen
 (stockfotografie, fonts, code, etc.) gelicenseerd zijn. 
 
 Wanneer het verschuldigde bedrag volledig betaald is, zullen alle relevante 
-auteursrechten van het werk die aan u overgedragen kunnen worden aan u
+auteursrechten van De Werkzaamheden die aan u overgedragen kunnen worden aan u
 overgedragen worden.
 
-Er zullen waarschijnlijk een aantal grijze gebieden zijn als het werk een workshop
-of presentatie is waarvoor u betaalt, maar waar u niet expliciet opdracht voor 
+Er zullen waarschijnlijk een aantal grijze gebieden zijn als De Werkzaamheden een workshop
+of presentatie zijn waarvoor u betaalt, maar waar u niet expliciet opdracht voor 
 verleent. Een voorbeeld: Als ik een presentatie of workshop geef in uw bedrijf,
 dan behoud ik het auteursrecht over de slides en het recht om deze te delen met
 derden (de _community_), tenzij anders overeengekomen in schriftelijke vorm.
@@ -104,33 +103,33 @@ derden (de _community_), tenzij anders overeengekomen in schriftelijke vorm.
 ## Openbaarmaking
 
 Het is geen probleem voor mij om een Non-Disclosure Agreement (NDA) te tekenen voor
-het werk dat ik voor u uitvoer.
+De Werkzaamheden die ik voor u uitvoer.
 
 Ik schrijf (op mijn website en/of twitter) vaak over projecten waar ik aan werk; als
 er geen NDA is ga ik er van uit dat u mij toestaat dit te doen. Laat u het mij _voor_
 het tekenen van dit document expliciet weten als u dit niet toestaat.
 
 Ik zal altijd expliciet uw toestemming vragen voordat ik schrijf over gebruikte code
-of gebruikte technieken in het werk of deze open-source.
+of gebruikte technieken in De Werkzaamheden of deze open-source.
 
 
 ## Wijzigingen en onderhoud
 
-Wijzigingen die de scope van het werk niet drastisch beinvloeden, of die benodigd
-zijn om het werk te laten voldoen aan de requirements van het project, vallen
-gewoonlijk onder de overeengekomen scope van het werk en vereisen daarom geen 
+Wijzigingen die de scope van De Werkzaamheden niet drastisch beinvloeden, of die benodigd
+zijn om De Werkzaamheden te laten voldoen aan de requirements van het project, vallen
+gewoonlijk onder de overeengekomen scope van De Werkzaamheden en vereisen daarom geen 
 herziening van de kosten of dit document.
 
 Voor alle wijzigingen die de scope van het project wel beinvloeden, zie sectie
 _Veranderingen in scope_ in dit document
 
 Het voorkomen van programmeerfouten kan, helaas, niet gegarandeerd worden. Mochten
-deze direct gerelateerd zijn aan het werk en binnen twee weken na afloop van het 
+deze direct gerelateerd zijn aan De Werkzaamheden en binnen twee weken na afloop van het 
 project ontdekt worden, dan zullen deze vanzelfsprekend opgelost worden zonder
 herziening van de voorwaarden. Ik biedt bij deze mijn excuses aan mocht dit het
 geval zijn.
 
-Onderhoud aan het werk valt niet onder de voorwaarden van dit document of de
+Onderhoud aan De Werkzaamheden valt niet onder de voorwaarden van dit document of de
 afgesproken kosten tenzij expliciet anders overeengekomen. Onderhoud kan apart
 begroot en beschreven worden.
 
@@ -144,18 +143,18 @@ U wordt daarom verzocht zich aan de hieronder genoemde betalingsvoorwaarden te h
 ### Voorschot
 
 Voor projecten die minder dan 2 maanden beslaan is een voorschot van 25% een 
-vereiste voor aanvang van het werk voor. Dit voorschot kan niet teruggevorderd
+vereiste voor aanvang van De Werkzaamheden. Dit voorschot kan niet teruggevorderd
 worden en zal alleen betaald worden zodra een vaste scope vastgesteld is en we 
 beide vertrouwen hebben in een goede samenwerking onder de gestelde voorwaarden.
 Het voorschot zal niet gevraagd worden totdat u volledig tevreden bent en 
-duidelijkheid hebt over de overeengekomen scope van het werk en de bijbehorende
-voorwaarden. Met het werk zal begonnen worden zodra het voorschot betaald is.
+duidelijkheid hebt over de overeengekomen scope van De Werkzaamheden en de bijbehorende
+voorwaarden. Met De Werkzaamheden zal begonnen worden zodra het voorschot betaald is.
 
 
 ### Betalingsvoorwaarden
 
-Als Het Werk meer dan 2 maanden beslaat, zullen maandelijks deelfacturen verstuurd 
-worden. Wanneer Het Werk minder dan 2 maanden beslaat, wordt na afronding van het
+Als De Werkzaamheden meer dan 2 maanden beslaan, zullen maandelijks deelfacturen verstuurd 
+worden. Wanneer De Werkzaamheden minder dan 2 maanden beslaan, wordt na afronding van het
 project voor de resterende 75% van de overeengekomen kosten gefactureerd.
 Het te factureren bedrag bestaat uit het overeengekomen projectbudget en andere
 gemaakte kosten (zie _Kosten_). 
@@ -173,9 +172,9 @@ het factuurbedrag. Deze boete komt bovenop de nog openstaande facturen.
 
 ### Kosten
 
-Alle kosten die direct betrekking hebben op Het Werk (bijvoorbeeld reiskosten, 
+Alle kosten die direct betrekking hebben op De Werkzaamheden (bijvoorbeeld reiskosten, 
 accomodatie, licenties, etc.) zullen gefactureerd worden naast de overeengekomen
-kosten voor Het Werk.
+kosten voor De Werkzaamheden.
 
 
 
