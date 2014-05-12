@@ -5,9 +5,9 @@
 * **‘Dit Document’** verwijst naar dit contract en de voorwaarden die hierin
 	vermeld staan.
 * **‘De Werkzaamheden’** verwijst naar het project waarvoor dit document geschreven is.
-	Dit kan zijn, maar is niet uitsluitend: consultancy uren, ontwikkelwerkzaamheden, een presentatie of een workshop.
+	Dit kan zijn, maar is niet uitsluitend: consultancy uren, ontwikkelwerkzaamheden, een presentatie of workshop.
 * **U** refereert aan de klant of het bedrijf waarvoor De Werkzaamheden worden uitgevoerd.
-* **‘Ik’** verwijst naar mij, Peter van Grieken, uitvoerende van De Werkzaamheden namens Frozen Rockets BV.
+* **‘Ik’** verwijst naar mij, David Hund, uitvoerende van De Werkzaamheden namens Valued Standards.
 
 ## Over dit document
 
@@ -28,52 +28,53 @@ tijdens en na afloop van onze samenwerking te voorkomen.
 
 Als iets onduidelijk is, schroom niet om het mij te vragen. Het is daarnaast belangrijk
 dat u weet dat verzoeken voor wijzigingen en toevoegingen aan dit document _voor_ het
-tekenen gedaan worden. Elk project wat ik uitvoer heeft zijn eigen vereisten, dus ik kan
-en ben bereid om wijzigingen te doen aan dit document om aan de eisen van elk project te
+tekenen gedaan worden. Elk project wat ik uitvoer heeft zijn eigen vereisten, dus kan ik- en 
+ben ik bereid om wijzigingen te doen aan dit document om aan de eisen van elk project te
 voldoen.
 
-Samenvattend, u huurt Frozen Rockets BV in om De Werkzaamheden uit te voeren die overeengekomen
+Samenvattend, u huurt Valued Standards in om De Werkzaamheden uit te voeren die overeengekomen
 zijn in dit document en eventuele bijgevoegde documenten in overeenstemming met briefing, 
 specificaties, kosten en deadlines.
 
-En vooral, laten we samen mooi werk maken!
+Laten we er samen een succesvol project van maken!
 
 
 ---
 
 ## Betrokken partijen
 
-**Peter van Grieken, ‘Frozen Rockets BV’, ‘Ik’:**
+**David Hund, ‘Valued Standards’, ‘Ik’:**
 
-Binkhorstlaan 36
+Ranonkelstraat 37
 
-2511 AT Den Haag
+6833 AN Arnhem
 
 
-**[Name], ‘The Client’, ‘You’:**
+**[Naam], ‘De Klant’, ‘U’:**
 
-[Address]
+[Adres]
 
 ## Scope
 
-De scope van De Werkzaamheden die ik voor u zal uitvoeren, zijn waarschijnlijk al beschreven en overeengekomen in eerdere correspondentie. E-mails en andere documenten waarin de 
-scope gedetailleerder wordt beschreven zijn bij dit document gevoegd waarnaar
-verwezen zal worden wanneer over de scope van het project gesproken wordt.
+De scope van De Werkzaamheden die ik voor u zal uitvoeren, zijn waarschijnlijk al beschreven 
+en overeengekomen in eerdere correspondentie. E-mails en andere documenten waarin de 
+scope gedetailleerder wordt beschreven zijn bij dit document gevoegd. Hiernaar kan 
+verwezen worden wanneer over de scope van het project gesproken wordt.
 
 
 ### Veranderingen in scope
 
 Er kunnen momenten zijn wanneer de scope van De Werkzaamheden verandert. In het ideale geval
 kunnen we deze op het moment zelf afhandelen en er op een pragmatische manier mee
-omgaan, maar grote wijzigingen kunnen er toe leiden dat de overeengekomen tarieven en
-deadline moeten herzien en het contract moeten vernieuwen.
+omgaan, maar grote wijzigingen kunnen ertoe leiden dat de overeengekomen tarieven en
+deadline moeten worden herzien en het contract vernieuwd zal moeten worden.
 
 
 
 ## Deadlines
 
-De overeengekomen deadline voor De Werkzaamheden zal overeengekomen worden in aparte 
-correspondentie en ik zal alles alles binnen mijn mogelijkheden doen om mij
+De deadline voor De Werkzaamheden zal overeengekomen worden in aparte 
+correspondentie en ik zal alles binnen mijn mogelijkheden doen om mij
 aan deze deadline te houden. In het ongelukkige geval dat een van de partijen
 zich niet aan de deadline kan houden, is het belangrijk dat we compleet
 transparant en eerlijk zijn over vertragingen. Vertragingen kunnen en zullen
@@ -109,14 +110,11 @@ Ik schrijf (op mijn website en/of twitter) vaak over projecten waar ik aan werk;
 er geen NDA is ga ik er van uit dat u mij toestaat dit te doen. Laat u het mij _voor_
 het tekenen van dit document expliciet weten als u dit niet toestaat.
 
-Ik zal altijd expliciet uw toestemming vragen voordat ik schrijf over gebruikte code
-of gebruikte technieken in De Werkzaamheden of deze open-source.
-
 
 ## Wijzigingen en onderhoud
 
-Wijzigingen die de scope van De Werkzaamheden niet drastisch beinvloeden, of die benodigd
-zijn om De Werkzaamheden te laten voldoen aan de requirements van het project, vallen
+Wijzigingen die de scope van De Werkzaamheden niet drastisch beïnvloeden, of die nodig
+zijn om De Werkzaamheden te laten voldoen aan de eisen van het project, vallen
 gewoonlijk onder de overeengekomen scope van De Werkzaamheden en vereisen daarom geen 
 herziening van de kosten of dit document.
 
@@ -136,7 +134,7 @@ begroot en beschreven worden.
 
 ## Betaling
 
-Als klein bedrijf is een gezonde liquiditeit erg belangrijk voor Frozen Rockets BV.
+Als klein bedrijf is een gezonde liquiditeit erg belangrijk voor Valued Standards.
 U wordt daarom verzocht zich aan de hieronder genoemde betalingsvoorwaarden te houden.
 
 
@@ -159,7 +157,7 @@ project voor de resterende 75% van de overeengekomen kosten gefactureerd.
 Het te factureren bedrag bestaat uit het overeengekomen projectbudget en andere
 gemaakte kosten (zie _Kosten_). 
 
-Frozen Rockets BV hanteert een betalingstermijn van 30 dagen, ontvangen facturen 
+Valued Standards hanteert een betalingstermijn van 30 dagen, ontvangen facturen 
 zullen binnen deze termijn betaald worden.
 
 
@@ -183,7 +181,7 @@ kosten voor De Werkzaamheden.
 Ondergetekenden bevestigen dat ze de voorwaarden in dit document hebben gelezen,
 begrijpen en deze zullen volgen:
 
-* **Peter van Grieken:**
+* **David Hund:**
 * **Datum:**
 
 
